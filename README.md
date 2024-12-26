@@ -1,1 +1,1 @@
-# weathert_type_prediction
+# weather_type_prediction
